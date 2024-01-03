@@ -20,7 +20,7 @@ Once you have those installed, you can clone the repository and install the depe
   npm install
   npm start
 ```
-Once the servers are running, a url will be logged in the terminal. Click on the one from the ```sh npm run dev```
+Once the servers are running, a url will be logged in the terminal. Click on the one from the ```npm run dev```
 Please make sure both servers are running.
 
 ## Contribute
