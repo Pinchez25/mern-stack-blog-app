@@ -20,7 +20,8 @@ Once you have those installed, you can clone the repository and install the depe
   npm install
   npm start
 ```
-This will start the development server on port 3000. You can then open your browser and navigate to http://localhost:3000 to see the project in action.
+Once the servers are running, a url will be logged in the terminal. Click on the one from the ```sh npm run dev```
+Please make sure both servers are running.
 
 ## Contribute
 
